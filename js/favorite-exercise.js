@@ -72,3 +72,5 @@ loadMoreBtn.addEventListener("click", async () => {
   renderExercises(exercises);
   loadMoreBtn.textContent = "Load More";
 })
+
+//// test
